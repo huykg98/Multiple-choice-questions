@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bfb4f0a-5420-4e80-8117-29836e89f8ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/global/testingsystem/MockProject1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/global/testingsystem/MockProject1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/global/testingsystem/controller/ExamAnswerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/global/testingsystem/controller/ExamAnswerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/global/testingsystem/controller/UserRegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/global/testingsystem/controller/UserRegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/global/testingsystem/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/global/testingsystem/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/global/testingsystem/service/impl/UsersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/global/testingsystem/service/impl/UsersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/global/testingsystem/util/ConstantPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/global/testingsystem/util/ConstantPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/IMG_1048.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/IMG_1135.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/IMG_2562.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/bk1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/bk1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/bk2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/bk2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/bk5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/bk5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/c32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/c43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/tiep_tu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/slidebars/tutiep2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/e2e/tsconfig.e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/auth.constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/auth.constant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/checkRolePermissionOrMenu.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/checkRolePermissionOrMenu.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/constant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/inceptorHttp.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/inceptorHttp.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/sanitize-html.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/sanitize-html.pipe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/common/shared.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/chapter/chapter.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/cms/cms.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/customer/customer/customer.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/domain/domain.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam-detail-admin/exam-detail-admin.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam-detail/exam-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/exam/exam.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/group.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/list_user_group/list_user_group.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/tree-group/tree-group.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/tree-group/tree-group.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/tree-group/tree-group.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/tree-group/tree-group.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/tree-group/tree-group.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/group/tree-group/tree-group.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/menu/menu.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/createnew/createnew.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/updatenews/updatenews.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/news/viewnewslist/viewnewslist.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/permission/permission.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/practice/practice.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/profile/profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/create-question/createquestion.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/listquestion.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/list-question/popup/popup.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/question/update-question/update-question.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role/role.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_menu/matrix-role-menu.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_permission/matrix-role-permistion.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/role_user/matrix-users-role.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/slidebar/slidebar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/subject/subject.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user-test-dashboard/user-test-dashboard.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/admin/user/user.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-forgot/active-forgot.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/active-register/active-register.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/change-password/change-password.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/contact-us/contact-us.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/edit-profile/edit-profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/error_page/error-page/error-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-detail-user/exam-detail-user.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/exam-history/exam-history.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/forgot-password/forgot-password.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometoal.moudule.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometoal.moudule.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/hometotal/hometotal.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/login/login.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/login/login.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/news/tintuc.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.moudule.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/pagenews/pagenews.moudule.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/preview/preview.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/previewcreate/previewcreate.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/news_session/viewnews/viewnews.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/page-not-found/page-not-found.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice-detail/practice-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice-add/practice-add.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/practice/practice.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/profile-user/profile-user.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/register/register.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-freedom/test-freedom.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-practive/test-practive.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/test-process/test-process.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/testresult/testresult.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/user-exam/user-exam.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/component/user/view-detail-result/view-detail-result.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/Newpost/Newpost.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/Newpost/Newpost.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/Tag/Tag.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/Tag/Tag.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/chapter/chapter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/chapter/chapter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/comment/coment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/comment/coment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/contact/contact.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/contact/contact.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/domain/domain.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/domain/domain.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/exam/exam.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/exam/exam.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/group/ListUserGroupDTO.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/group/ListUserGroupDTO.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/group/group.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/group/group.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/menu/menu.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/menu/menu.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/permission/permission.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/permission/permission.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/question_model/question.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/question_model/question.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/role/Response.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/role/Response.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/role/Roles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/role/Roles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/slidebar/slidebar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/slidebar/slidebar.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/subject/subject.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/subject/subject.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/user/users.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/user/users.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/viewnewslist/viewnewslist.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/model/viewnewslist/viewnewslist.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/chapter/chapter.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/chapter/chapter.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/chapter/chapter.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/chapter/chapter.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/comment/comment.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/comment/comment.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/comment/comment.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/comment/comment.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/contact/contact.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/contact/contact.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/contact/contact.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/contact/contact.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/dataservice/dataservice.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/dataservice/dataservice.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/datatranfer/datatranfer.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/datatranfer/datatranfer.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/datatranfer/datatranfer.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/datatranfer/datatranfer.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/domain/domain.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/domain/domain.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/domain/domain.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/domain/domain.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/confirmation/confirmation.guard.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/confirmation/confirmation.guard.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/confirmation/confirmation.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/confirmation/confirmation.guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/examCanActive/exam-can-active.guard.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/examCanActive/exam-can-active.guard.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/examCanActive/exam-can-active.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam-guard/examCanActive/exam-can-active.guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam/exam.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam/exam.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam/exam.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/exam/exam.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/getdata.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/getdata.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/getdata.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/getdata.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/group/group.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/group/group.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/group/group.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/group/group.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/authguards.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/authguards.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/authguardtoken.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/authguardtoken.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/roleguards.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/guards/roleguards.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/login/auth.constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/login/auth.constant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/login/authentication.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/login/authentication.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/login/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/login/user.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-menu.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-menu.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-menu.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-menu.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-sevice.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-sevice.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-sevice.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/matrix-role/matrix-role-sevice.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu/menu.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu/menu.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu/menu.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu/menu.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu_filter/menu-filter.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu_filter/menu-filter.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu_filter/menu-filter.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/menu_filter/menu-filter.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newpost/newpost.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newpost/newpost.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newpost/newpost.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newpost/newpost.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newuser/newuser.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newuser/newuser.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newuser/newuser.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/newuser/newuser.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/permission/permission.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/permission/permission.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/permission/permission.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/permission/permission.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/questionservice/uploadfile-service.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/questionservice/uploadfile-service.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/questionservice/uploadfile-service.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/questionservice/uploadfile-service.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/role/role.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/role/role.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/role/role.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/role/role.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/slidebar/slidebar.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/slidebar/slidebar.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/slidebar/slidebar.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/slidebar/slidebar.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/subject/subject.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/subject/subject.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/subject/subject.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/subject/subject.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/tag/tag.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/tag/tag.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/tag/tag.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/tag/tag.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/matrix-users-role.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/matrix-users-role.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/matrix-users-role.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/matrix-users-role.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/userservice.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/userservice.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/userservice.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/user-service/userservice.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userRegistration/user-registration.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userRegistration/user-registration.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userRegistration/user-registration.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userRegistration/user-registration.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userdatatranfer/userdatatranfer.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userdatatranfer/userdatatranfer.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userdatatranfer/userdatatranfer.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/userdatatranfer/userdatatranfer.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/viewnewslist/viewnewslist.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/viewnewslist/viewnewslist.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/viewnewslist/viewnewslist.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/app/service/viewnewslist/viewnewslist.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/detail_news_post.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/detail_news_post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/flag-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/flag-icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/jquery.dotdotdot.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/jquery.dotdotdot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/jquery.fancybox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/jquery.fancybox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/life.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/life.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/list_news_post.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/list_news_post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/portal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/portal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slick-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slick-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slick.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slick.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slider_home.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slider_home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slider_jobs.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slider_jobs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slider_jobs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/assets/slider_jobs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/src/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/src/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystemPortal/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystemPortal/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1a1vLjooX8KX2gqyK5Nv36Qi5IS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Statistics" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MockProject1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="GraduationProjectBackend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="global.testingsystem.MockProject1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bfb4f0a-5420-4e80-8117-29836e89f8ba" name="Default Changelist" comment="" />
+      <created>1585915861597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585915861597</updated>
+      <workItem from="1585915870655" duration="7504000" />
+      <workItem from="1585970758857" duration="960000" />
+      <workItem from="1585975624990" duration="4261000" />
+      <workItem from="1586146999966" duration="540000" />
+      <workItem from="1586147654266" duration="9237000" />
+      <workItem from="1586501396454" duration="26741000" />
+      <workItem from="1587311153239" duration="22964000" />
+      <workItem from="1587595781638" duration="7241000" />
+      <workItem from="1587738724359" duration="6103000" />
+      <workItem from="1588334629288" duration="8351000" />
+      <workItem from="1589371945018" duration="595000" />
+      <workItem from="1589524313878" duration="3231000" />
+      <workItem from="1589595994884" duration="2945000" />
+      <workItem from="1590119818242" duration="6282000" />
+      <workItem from="1590726180230" duration="15537000" />
+      <workItem from="1591325007074" duration="3195000" />
+      <workItem from="1591940443919" duration="2020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Assign_Data_Sources" timestamp="1586533885394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1586533885394" />
+    <state x="275" y="26" key="#Notifications" timestamp="1587738859452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587738859452" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585925856460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585925856460" />
+    <state x="484" y="234" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586606364176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="234" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1586606364176" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1590298405817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590298405817" />
+    <state width="1323" height="288" key="GridCell.Tab.0.bottom" timestamp="1590748932956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590748932956" />
+    <state width="1323" height="288" key="GridCell.Tab.0.center" timestamp="1590748932956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590748932956" />
+    <state width="1323" height="288" key="GridCell.Tab.0.left" timestamp="1590748932955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590748932955" />
+    <state width="1323" height="288" key="GridCell.Tab.0.right" timestamp="1590748932956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590748932956" />
+    <state width="1323" height="288" key="GridCell.Tab.1.bottom" timestamp="1590748932957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590748932957" />
+    <state width="1323" height="288" key="GridCell.Tab.1.center" timestamp="1590748932956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590748932956" />
+    <state width="1323" height="288" key="GridCell.Tab.1.left" timestamp="1590748932956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590748932956" />
+    <state width="1323" height="288" key="GridCell.Tab.1.right" timestamp="1590748932957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590748932957" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1586590053617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586590053617" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1585915874474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585915874474" />
+    <state x="65" y="0" key="new project wizard" timestamp="1586511176892">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586511176892" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586531962453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586531962453" />
+    <state x="275" y="57" key="spring file set editor" timestamp="1586533687841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="57" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1586533687841" />
+  </component>
+</project>
